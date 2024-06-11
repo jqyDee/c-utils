@@ -1,2 +1,4 @@
-/build
-/res
+**/build
+**/res
+**/.cache
+.DS_Store
